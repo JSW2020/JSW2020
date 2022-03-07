@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JSW2020
+- 👋 Hi, I’m @JSW2020 from SCNU
 - 👀 I’m interested in Cryptography
 - 🌱 I’m currently learning relevant knowledge
 - 💞️ I’m looking to collaborate on ...
